@@ -1,0 +1,11 @@
+tailwinds for react install https://www.youtube.com/watch?v=FiGmAI5e91M
+
+tailwinds dark mode https://tailwindcss.com/docs/dark-mode
+
+tailwinds blocks https://blocks.wickedtemplates.com/
+
+redditor that made tailwinds blocks https://old.reddit.com/r/reactjs/comments/kmxyr7/i_made_a_collection_of_more_than_120_tailwindcss/
+
+I had an issue with my autoprefixer that was resolved by running `npm install tailwindcss@latest postcss@latest autoprefixer@latest`
+Error:      "PostCSS plugin autoprefixer requires PostCSS 8. Update PostCSS or downgrade this plugin"
+
